@@ -4,6 +4,7 @@ gem 'sinatra'
 gem 'haml'
 gem 'dm-core'
 gem 'dm-sqlite-adapter'
+gem 'inploy'
 
 group :test do
   gem 'rack-test'

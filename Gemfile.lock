@@ -18,6 +18,7 @@ GEM
       data_objects (= 0.10.2)
     extlib (0.9.15)
     haml (3.0.25)
+    inploy (1.9.3)
     rack (1.2.1)
     rack-test (0.5.7)
       rack (>= 1.0)
@@ -42,6 +43,7 @@ DEPENDENCIES
   dm-core
   dm-sqlite-adapter
   haml
+  inploy
   rack-test
   rcov
   rspec (>= 2.0)
